@@ -1,0 +1,199 @@
+*{
+    font-family: sans-serif;
+  }
+  .title
+  {
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    font-weight: 900;
+    margin: 2rem 0rem;
+    color: rgb(56, 57, 58);
+  }
+  
+  .firspart
+  {
+    border: 2px solid rgb(242, 242, 242);
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    padding-left: 4%;
+    padding-right: 4%;
+  
+  }
+  
+  .page{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .pageone
+  {
+    margin-top: 100px;
+  
+  }
+  
+  input{
+    padding: .6rem;
+    width: 255px;
+    background-color: rgb(248, 248, 248);
+    margin-bottom: 8px;
+    border-radius: 4%;
+    border: none;
+    outline: 1.5px solid rgb(224, 224, 224);
+  }
+  
+  .loginbtn
+  {
+    background-color: rgb(89, 159, 251);
+    border: none;
+    width: 280px;
+    padding: .4rem;
+    font-size: 18px;
+    color: aliceblue;
+    border-radius: 10px;
+    cursor: pointer;
+  
+  }
+  
+  .facebook
+  {
+    width: 23px;
+    margin-right: 1rem;
+  }
+  
+  .or
+  {
+    font-size: 15px ;
+    font-weight: 800;
+    margin-top: 5%;
+    color: rgb(104, 105, 106);
+  }
+  
+  .fb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -10px;
+    cursor: pointer;
+  
+  }
+  
+  .logofb{
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(2, 2, 131);
+  }
+  
+  .forgotps{
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(1, 1, 141);
+  }
+  
+  .secondpart{
+    border: 2px solid rgb(242, 242, 242);
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 4%;
+    padding-right: 4%;
+  
+  
+  
+  }
+  
+  span
+  {
+    color: rgb(113, 173, 241);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .thirdpart{
+    
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    color: gray;
+  
+  }
+  
+  .forthpart{
+    width: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+  }
+  
+  .app
+  {
+    width: 140px;
+    cursor: pointer;
+    height: auto;
+  }
+  
+  .appone{
+    margin-right: 10px;
+  }
+  
+  .sideimage
+  {
+    margin-right:2% ;
+    margin-top: 7rem;
+    width: 290px;
+    height: 570px;
+  }
+  
+  
+  .listoflinks{
+    margin-top: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: rgb(164, 167, 167);
+    
+  }
+  
+  ul {
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    padding:-10;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+    margin: 10px;  
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .langyear{
+  
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: rgb(164, 167, 167);
+  }
+  
+  .lang{
+  
+    border-style: none;
+    color: rgb(141, 143, 143);
+    width: 120px;
+  }
